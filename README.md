@@ -1,0 +1,1 @@
+# STM32L431RCT6_Template
