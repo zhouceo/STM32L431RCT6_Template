@@ -1,0 +1,15 @@
+"D:\software\9.30.1\arm\bin\armPROC.dll" 
+
+"D:\software\9.30.1\arm\bin\armSTLINK.dll" 
+
+"C:\Users\user\Desktop\STM32L431RCT6_Template\EWARM\STM32L431RCT6_Template\Exe\STM32L431RCT6_Template.out" 
+
+--plugin="D:\software\9.30.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\software\9.30.1\arm/config/debugger/ST/STM32L4xx.dmac" 
+
+--flash_loader="D:\software\9.30.1\arm/config/flashloader/ST/FlashSTM32L43xxC.board" 
+
+
+
+
